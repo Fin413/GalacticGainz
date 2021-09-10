@@ -8,8 +8,10 @@ Getting started with working out can often be intimidating and confusing. Throug
 
 ## Gameplay
 The user creates an alien creature. This creature comes from a planet where food is scarce, and regular exercise is necessary to evade predators. Because of this, they gain weight easily when sitting still. Now that they've come into your care, it's your responsibility to exercise and feed them to keep them happy and healthy.  
+
 ### :running_man:	 Exercising 
 In order to help them to lose weight, the user must do exercises in real life. These simple exercises can be done anywhere with open floor space.    
+
 
 ### :carrot:	Feeding 
 To feed your alien pal, head out to space and use the WASD or arrow keys to collect food.  
