@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visit site at <a href="https://soehn.ca/twtJam" target="blank_">soehn.ca/twtJam</a>
-  <img src="./twtJam/media/0.svg">
+  <img src="./twtJam/media/1.svg">
 </p>
 
 
