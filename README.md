@@ -22,7 +22,7 @@ Healthy food appears at the edges of your screen, indicated by a green exclamati
 ![Image of healthy food](./twtJam/media/foods/healthy0.svg)
 
 Unhealthy food is thrown at you, avoid it at all costs! When hit by these foods, your weight goes up. Thus your speed goes down, ultimately making the game harder. Have no fear though, at any time during the game you can work out to reduce your weight.  
-![Image of unhealthy food](./media/foods/unhealthy0.svg)
+![Image of unhealthy food](./twtJam/media/foods/unhealthy0.svg)
 
 <br/>
 <br/>
