@@ -17,4 +17,8 @@ To feed your alien pal, head out to space and use the WASD or arrow keys to coll
 Healthy food appears at the edges of your screen, indicated by a green exclamation mark and outer hue. 
 ![Image of healthy food](./media/foods/healthy0.svg)
 
+Unhealthy food is thrown at you, avoid it at all costs! When hit by these foods, your weight goes up. Thus your speed goes down, ultimately making the game harder. Have no fear though, at any time during the game you can work out to reduce your weight.
+![Image of unhealthy food](./media/foods/unhealthy0.svg)
+
+
 
