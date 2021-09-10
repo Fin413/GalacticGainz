@@ -1,4 +1,4 @@
-## GalacticGainz
+# GalacticGainz
 
 Visit site at [soehn.ca/twtJam](https://soehn.ca/twtJam)
 
