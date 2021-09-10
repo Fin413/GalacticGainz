@@ -1,4 +1,4 @@
-# Galactic Gainz :U+1F4AA:
+# Galactic Gainz :muscle:
 
 Visit site at [soehn.ca/twtJam](https://soehn.ca/twtJam)
 
