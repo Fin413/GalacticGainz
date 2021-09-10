@@ -1,6 +1,10 @@
 # Galactic Gainz :muscle:
 
-<p align="center"> Visit site at <a href="https://soehn.ca/twtJam" target="blank_">soehn.ca/twtJam</a></p>
+<p align="center"> 
+  Visit site at <a href="https://soehn.ca/twtJam" target="blank_">soehn.ca/twtJam</a>
+  <img src="./twtJam/media/0.svg">
+</p>
+
 
 ## Overview
 Galactic Gainz is a site that aims to introduce newcomers to the world of fitness.  
