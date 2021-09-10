@@ -25,6 +25,6 @@ Unhealthy food is thrown at you, avoid it at all costs! When hit by these foods,
 ![Image of unhealthy food](./media/foods/unhealthy0.svg)
 
 
-# The alien gains weight and gets hungry when you're away so make sure to come back to tend to the lil fella
+### The alien gains weight and gets hungry when you're away so make sure to come back to tend to the lil fella
 
 
