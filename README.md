@@ -13,7 +13,7 @@ The user creates an alien creature. This creature comes from a planet where food
 <br/>
 
 ### :running_man:	 Exercising 
-In order to help them to lose weight, the user must do exercises in real life. These simple exercises can be done anywhere with open floor space.    
+To help them to lose weight, the user must do exercises in real life. These simple exercises can be done anywhere with open floor space.    
 
 <br/> 
 
@@ -23,7 +23,7 @@ To feed your alien pal, head out to space and use the WASD or arrow keys to coll
 Healthy food appears at the edges of your screen, indicated by a green exclamation mark and outer hue.  
 <p align="center"> <img width="200" src="./twtJam/media/foods/healthy0.svg"> </p>
 
-Unhealthy food is thrown at you, avoid it at all costs! When hit by these foods, your weight goes up. Thus your speed goes down, ultimately making the game harder. Have no fear though, at any time during the game you can work out to reduce your weight. Indicated with a red exclaimation mark and hue.  
+Unhealthy food is thrown at you, avoid it at all costs! When hit by these foods, your weight goes up. Thus your speed goes down, ultimately making the game harder. Have no fear though, at any time during the game you can work out to reduce your weight. Indicated with a red exclamation mark and hue.  
 <p align="center"> <img width="200" src="./twtJam/media/foods/unhealthy2.svg"> </p>
 
 <br/>
