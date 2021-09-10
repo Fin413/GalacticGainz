@@ -7,7 +7,7 @@ Galactic Gainz is a site that aims to introduce newcomers to the world of fitnes
 Getting started with working out can often be intimidating and confusing. Through games and a Tamagotchi-like system, the user is encouraged to learn several exercises to maintain the happiness of their alien companion. This same system also urges users to keep coming back. 
 
 ## Gameplay
-The user creates an alien creature. This creature comes from a planet where food is scarce, and regular exercise is necessary to evade predators. Because of this, they gain weight easily when sitting still. Now that they've come into your care, it's your responsibility to exercise and feed them to keep them happy and healthy.  
+The user creates an alien creature. This creature comes from a planet where food is scarce, and regular exercise is necessary to evade predators. Because of this, they gain weight easily when sitting still. Now that they've come into your care, it's your responsibility to exercise and feed them to keep them happy and healthy.    
 <br/>
 
 ### :running_man:	 Exercising 
