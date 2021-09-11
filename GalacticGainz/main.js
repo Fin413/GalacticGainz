@@ -583,13 +583,13 @@ function toggleSettingsDrawer() {
     if(isTutorial) return;
 
     let drawer = document.getElementById("settingsContainer");
-
-    if(window.getComputedStyle(drawer).transform == "matrix(1, 0, 0, 1, -225, 0)"){
-        drawer.style.visibility = "visible";
-        drawer.style.transform = "translateX(0)";
-    }else{
+    
+    if(drawer.style.visibility == "visible"){
         drawer.style.visibility = "hidden";
         drawer.style.transform = "translateX(-100%)";
+    }else{
+        drawer.style.visibility = "visible";
+        drawer.style.transform = "translateX(0)";
     }
 }
 
