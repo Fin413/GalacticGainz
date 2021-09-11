@@ -17,7 +17,6 @@ var gameStart = false;
 var isTutorial = false;
 var transitioning = false;
 var dead = false;
-
 var grow = true;
 var paused = false;
 
@@ -66,24 +65,25 @@ var images =  [
     happyMeter
 ];
 
-function loaded(){
-    // wait until all images are loaded to init
+var imagesLoaded = 0;
 
-    var imagesLoaded = 0;
+
+function loaded(){
 
     images.forEach(image => {
-        image.onload = () =>{
-            imagesLoaded ++;
-            
-            if (imagesLoaded == images.length) {
-                imagesLoaded += 10;
-                readData();
-            }
-        }
-
-        image.setAttribute("src", image.src);
+        if(image.complete) imageLoaded();
+        else image.onload = imageLoaded;
     });
     
+}
+
+
+function imageLoaded() {
+    imagesLoaded ++;
+    if (imagesLoaded == images.length) {
+        imagesLoaded += 10;
+        readData();
+    }
 }
 
 
