@@ -1,87 +1,3 @@
-// minify at end
-// use https://babeljs.io/
-// and https://www.jslint.com/
-// and css equivilent
-// template literals not supproted ie
-
-/*
-    To Do List
-
-    start with 0 weight but 100 hunger
-
-    LETTER SPACING IN CANVAS
-    add onload so elements only start when everything is loaded
-    after weight shit
-
-    CLEAN UP CODE IT LOOKS SHITE
-
-    weight gain problems like the things doesnt auto add weight/hunger
-    some text is fucky on safari
-
-    add some buttons to make alien unhappy and some to make him happy for example
-
-    lowercase letters to look more friendly?
-
-    RE WORK TO USE GET REQUEST FORM INSTEAD OF WHATEVER THE FUCK IS HAPPENING HERE <- maybe not
-    - add more info button on last exercise popup that show how much weight your dide gained and shit
-    - create death for game <- explosion doesnt always show
-    - find workout music
-    if you have a small name (2 letters) it fucks up the already created popup
-
-    safari is fucked especially letter spacing holy shit
-    make speed in game size proportionally
-
-    when bored make more art!
-    - add more exercises <- !!!
-    - add more food art
-    - media quieries
-
-    multiply by velocity var???
-
-    - edit form transition
-
-
-    ideas
-
-    add achivements?
-
-    make sure you tell the user that it saves your data when you leave the page
-    get them to reload the page during the tutorial so they can see that is tracks
-    when you were last there too
-    like duck game
-    add races etc
-
-    gameplay
-
-    your character is an alien that gains weight extremely fast
-    add little sweat band for fitness
-
-    inspo https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIL4beadD2hvpyCTD5I5rxhUK6QAwb1LqsA&usqp=CAU
-
-    you control a little character who gets large easily 
-    (make backstory like its a type of animal that gets fat really fast so you gotta work it out to stop it)
-    but the way you get it slim incorparate real world fitness
-
-    list a daily calorie intake level
-    and calculate the amount you burn
-
-    run through levels 
-    avoid junk food and collect good food
-    at end of level do amount of exercise based off of junk food collection
-
-    use real world data to calcuate how much you will burn?
-
-    workout when you lose or at other points
-    collect healthy food?
-    start as a fat character?
-    make character gain weight in real world time
-    this makes user come back to play again
-    bmi scale where if it gets too large you die
-    like tomogachi
-    olympics? topical
-
-*/
-
 var data = JSON.parse(window.localStorage.getItem("gameData"));
 
 var workoutNotif = document.getElementById("workoutNotifContainer");
@@ -101,6 +17,7 @@ var gameStart = false;
 var isTutorial = false;
 var transitioning = false;
 var dead = false;
+
 var grow = true;
 var paused = false;
 
