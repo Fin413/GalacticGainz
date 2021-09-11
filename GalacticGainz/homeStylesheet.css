@@ -114,6 +114,10 @@ body{
         width: 75%;
     }
 
+    body{
+        margin-top: 100px;
+    }
+
     .rowContainer{
         flex-direction: column;
     }
@@ -221,7 +225,7 @@ body{
 
 #startBtnSmall{
     width: 180px;
-    height: 40px;
+    min-height: 40px;
     border-radius: 20px;
     font-size: 20px;
     cursor: pointer;
