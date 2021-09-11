@@ -1,7 +1,7 @@
 # Galactic Gainz :muscle:
 
 <p align="center"> Visit site at <a href="https://soehn.ca/twtJam" target="blank_">soehn.ca/twtJam</a> </p>
-<p align="center"> <img src="./twtJam/media/1.svg"> </p>
+<p align="center"> <img src="./GalacticGainz/media/1.svg"> </p>
 
 
 ## Overview
@@ -23,10 +23,10 @@ To help them to lose weight, the user must do exercises in real life. These simp
 To feed your alien pal, head out to space and use the WASD or arrow keys to collect food.  
 
 Healthy food appears at the edges of your screen, indicated by a green exclamation mark and outer hue.  
-<p align="center"> <img width="200" src="./twtJam/media/foods/healthy0.svg"> </p>
+<p align="center"> <img width="200" src="./GalacticGainz/media/foods/healthy0.svg"> </p>
 
 Unhealthy food is thrown at you, avoid it at all costs! When hit by these foods, your weight goes up. Thus your speed goes down, ultimately making the game harder. Have no fear though, at any time during the game you can work out to reduce your weight. Indicated with a red exclamation mark and hue.  
-<p align="center"> <img width="200" src="./twtJam/media/foods/unhealthy2.svg"> </p>
+<p align="center"> <img width="200" src="./GalacticGainz/media/foods/unhealthy2.svg"> </p>
 
 <br/>
 <br/>
